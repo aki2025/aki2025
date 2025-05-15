@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aki2025
 - 👀 I’m interested in building MVPs, Design tech 
-- 🌱 I’m currently learning AI? ML LLM modesl , AI /Agents based systems 
+- 🌱 I’m currently learning AI ML LLM modesl , AI /Agents  MVP E2E DESIGN & DEVELOPMENT. 
 - 💞️ I’m looking to collaborate on IDEAS 
 - 📫 How to reach me mylogindeatil2025@gmail.com
 - 😄 Pronouns: ...
